@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="152" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="152" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+      <class name="com.Automation.testNg20.Program">
+        <test-method status="PASS" signature="java()[pri:0, instance:com.Automation.testNg20.Program@13f88ab]" name="java" duration-ms="6" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- java -->
+      </class> <!-- com.Automation.testNg20.Program -->
+      <class name="com.Automation.testNg10.Demo1">
+        <test-method status="PASS" signature="job()[pri:0, instance:com.Automation.testNg10.Demo1@7fdd33]" name="job" duration-ms="14" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- job -->
+      </class> <!-- com.Automation.testNg10.Demo1 -->
+      <class name="com.Automation.testNg10.Demo2">
+        <test-method status="PASS" signature="hike()[pri:0, instance:com.Automation.testNg10.Demo2@33cc44]" name="hike" duration-ms="7" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hike -->
+      </class> <!-- com.Automation.testNg10.Demo2 -->
+      <class name="com.Automation.testNg20.Programer">
+        <test-method status="PASS" signature="python()[pri:0, instance:com.Automation.testNg20.Programer@1a8c74e]" name="python" duration-ms="3" started-at="2024-03-06T16:56:19 IST" finished-at="2024-03-06T16:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- python -->
+      </class> <!-- com.Automation.testNg20.Programer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
