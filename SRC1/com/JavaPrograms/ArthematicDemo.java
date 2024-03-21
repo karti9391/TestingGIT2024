@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		sum = sum+a;
 	}
 	
-	
+	System.out.print(sum);
 	
 	
 	
