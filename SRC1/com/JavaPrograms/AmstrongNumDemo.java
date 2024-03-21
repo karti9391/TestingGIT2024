@@ -22,7 +22,8 @@ public static void main(String[] args) {
 		System.out.println("it is a Amstrong number");
 	}
 	else System.out.println("it is not a Amstrong number");
-	
+
+	System.out.println("it is a amstrong num \\ it is not a amstrong number");
 	
 	
 }
